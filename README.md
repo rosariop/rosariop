@@ -15,14 +15,14 @@
 
 **Languages / Frameworks I worked with:**
 
-* **Frontend:**
-  * <img alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/html5.svg" /> HTML
-  * <img alt="css" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/css3.svg" /> CSS / SCSS
-  * <img alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/javascript.svg" /> JavaScript
-    * <img alt="vue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/vue-dot-js.svg" /> VueJS
-    * <img alt="nuxt" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/nuxt-dot-js.svg" /> NuxtJS
-   * <img alt="nuxt" width="22px" src="https://design.jboss.org/richfaces/logo/final_logo/richfaces_icon_64px.png" /> RichFaces
-   * <img alt="nuxt" width="22px" src="https://www.thymeleaf.org/images/thymeleaf.png" /> Thymeleaf
+**Frontend:**
+<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/html5.svg" /> HTML
+<img align="left" alt="css" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/css3.svg" /> CSS / SCSS
+<img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/javascript.svg" /> JavaScript
+<img align="left" alt="vue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/vue-dot-js.svg" /> VueJS
+<img align="left" alt="nuxt" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/nuxt-dot-js.svg" /> NuxtJS
+<img align="left" alt="nuxt" width="22px" src="https://design.jboss.org/richfaces/logo/final_logo/richfaces_icon_64px.png" /> RichFaces
+<img align="left" alt="nuxt" width="22px" src="https://www.thymeleaf.org/images/thymeleaf.png" /> Thymeleaf
 <br/>
 
 * **Backend:**
