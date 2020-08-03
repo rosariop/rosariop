@@ -7,10 +7,9 @@
 * building enterprise content management systems
 * Goal for 2020: launching my first product
 
-**Connect with me:**
-* [<img alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gmail.svg" />](mailto:rosario.polito@gmx.de) [E-Mail]((mailto:github-contact@magister-media.de))
-* [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rosario-p-91512a199/) [Linked in](https://www.linkedin.com/in/rosario-p-91512a199/)
-
+**Connect with me:** <br/>
+[<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gmail.svg" />](mailto:github-contact@magister-media.de) 
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rosario-p-91512a199/)
 <br>
 
 **Languages / Frameworks I worked with:** <br/>
@@ -25,7 +24,6 @@
 [<img align="left" alt="nuxt" width="22px" src="https://www.thymeleaf.org/images/thymeleaf.png" />](https://www.thymeleaf.org/)
 <br/>
 
----
 **Backend:**<br/>
 [<img align="left" alt="java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/java.svg" />](https://www.java.com)
 [<img align="left" alt="spring" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/spring.svg" />](https://spring.io/)
@@ -35,7 +33,6 @@
 [<img align="left" alt="mysql" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/mysql.svg" />](https://www.mysql.com/de/)
 <br/>
 
----
 **Devops:**<br/>
 [<img align="left" alt="git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/git.svg" />](https://git-scm.com/)
 [<img align="left" alt="linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linux.svg" />](https://www.linux.org/)
