@@ -1,6 +1,6 @@
 ## Hey there, I'm Rosario
 
-# Software Developer from Cologne (Germany)
+# Software Developer from Cologne (Germany) :de:
 ---
 * :construction_worker: working for [neusta](https://www.neusta-webservices.de/) :construction_worker:
 * :bookmark_tabs: learning about microservices :bookmark_tabs:
