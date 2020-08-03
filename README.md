@@ -26,7 +26,7 @@
 <br/>
 
 ---
-**Backend:**
+**Backend:**<br/>
 [<img align="left" alt="java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/java.svg" />](https://www.java.com)
 [<img align="left" alt="spring" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/spring.svg" />](https://spring.io/)
 [<img align="left" alt="Micro Profile" width="22px" src="https://helidon.io/static/img/logo-microprofile-500x500.png" />](https://projects.eclipse.org/projects/technology.microprofile)
@@ -36,7 +36,7 @@
 <br/>
 
 ---
-**Devops:**
+**Devops:**<br/>
 [<img align="left" alt="git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/git.svg" />](https://git-scm.com/)
 [<img align="left" alt="linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linux.svg" />](https://www.linux.org/)
 [<img align="left" alt="windows" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/windows.svg" />](https://www.microsoft.com/de-de/windows-server)
