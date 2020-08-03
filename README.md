@@ -13,9 +13,9 @@
 
 <br>
 
-**Languages / Frameworks I worked with:**
+**Languages / Frameworks I worked with:** <br/>
 
-**Frontend:**
+**Frontend:** <br/>
 [<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/html5.svg" />](https://html.spec.whatwg.org/)
 [<img align="left" alt="css" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/css3.svg" />](https://www.w3.org/Style/CSS/specs.de.html)
 [<img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/javascript.svg" />](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
@@ -25,6 +25,7 @@
 [<img align="left" alt="nuxt" width="22px" src="https://www.thymeleaf.org/images/thymeleaf.png" />](https://www.thymeleaf.org/)
 <br/>
 
+---
 **Backend:**
 [<img align="left" alt="java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/java.svg" />](https://www.java.com)
 [<img align="left" alt="spring" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/spring.svg" />](https://spring.io/)
@@ -34,6 +35,7 @@
 [<img align="left" alt="mysql" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/mysql.svg" />](https://www.mysql.com/de/)
 <br/>
 
+---
 **Devops:**
 [<img align="left" alt="git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/git.svg" />](https://git-scm.com/)
 [<img align="left" alt="linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linux.svg" />](https://www.linux.org/)
