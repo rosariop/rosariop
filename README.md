@@ -2,7 +2,7 @@
 
 # Software Developer from Cologne (Germany) :de:
 ---
-* :construction_worker: working for [neusta](https://www.neusta-webservices.de/) :construction_worker:
+* :construction_worker: working for [CGI](https://www.de.cgi.com/de) :construction_worker:
 * :bookmark_tabs: learning about microservices :bookmark_tabs:
 * :chart_with_upwards_trend: building enterprise content management systems :chart_with_upwards_trend:
 * :top: Goal for 2020: launching my first product :top:
