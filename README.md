@@ -4,7 +4,7 @@
 ---
 * :construction_worker: working for [CGI](https://www.de.cgi.com/de) :construction_worker:
 * :bookmark_tabs: learning about microservices :bookmark_tabs:
-* :chart_with_upwards_trend: building enterprise content management systems :chart_with_upwards_trend:
+* :chart_with_upwards_trend: building microservices, deploying on Kubernetes :chart_with_upwards_trend:
 
 **Connect with me:** <br/>
 [<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gmail.svg" />](mailto:github-contact@magister-media.de) 
