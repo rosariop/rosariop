@@ -26,7 +26,7 @@
 **Backend:**<br/>
 [<img align="left" alt="java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/java.svg" />](https://www.java.com)
 [<img align="left" alt="spring" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/spring.svg" />](https://spring.io/)
-[<img align="left" alt="Micro Profile" width="22px" src="https://helidon.io/static/img/logo-microprofile-500x500.png" />](https://projects.eclipse.org/projects/technology.microprofile)
+[<img align="left" alt="Micro Profile" width="22px" src="https://avatars.githubusercontent.com/u/19935375?s=200&v=4" />](https://projects.eclipse.org/projects/technology.microprofile)
 [<img align="left" alt="Micro Profile" width="22px" src="https://agoncal.files.wordpress.com/2014/05/java_ee_logo_vert_v2.png" />](https://jakarta.ee/)
 [<img align="left" alt="nuxt" width="22px" src="https://design.jboss.org/richfaces/logo/final_logo/richfaces_icon_64px.png" />](https://richfaces.jboss.org/)
 [<img align="left" alt="mysql" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/mysql.svg" />](https://www.mysql.com/de/)
