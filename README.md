@@ -11,8 +11,7 @@ I'm a professional software engineer & IT-Consultant helping customers build the
 **Connect with me:** <br/>
 [<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/rosario-p-91512a199/)
 <br>
-
-<hr style="height: 0.5px">
+<br>
 
 ## **Tools and Frameworks I worked with:** <br/>
 
@@ -27,6 +26,7 @@ I'm a professional software engineer & IT-Consultant helping customers build the
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
           
 <br/>
+<br/>
 
 ## Software used for professional Work:
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
@@ -38,8 +38,8 @@ I'm a professional software engineer & IT-Consultant helping customers build the
 <img align="left" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 <img align="left" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-<br>
-<hr style="height: 0.5px">
+<br/>
+<br/>
 
 ## Languages learned in University:
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
