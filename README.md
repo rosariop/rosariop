@@ -1,7 +1,6 @@
 ## Hey there, I'm Rosario
 
 # Software Developer from Cologne (Germany) :de:
----
 I'm a professional software engineer & IT-Consultant helping customers build their vision of a digital world. This is my private repository hosting private playground code or academic work for my part-time computer science study.
 
 * :construction_worker: working for [CGI](https://www.de.cgi.com/de) :construction_worker:
