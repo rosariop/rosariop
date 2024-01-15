@@ -4,7 +4,7 @@
 I'm a professional software engineer & IT-Consultant helping customers build their vision of a digital world. This is my private repository hosting private playground code or academic work for my part-time computer science study.
 
 * :construction_worker: working for [CGI](https://www.de.cgi.com/de) :construction_worker:
-* :bookmark_tabs: learning about microservices :bookmark_tabs:
+* :bookmark_tabs: developing guidelines for software architects :bookmark_tabs:
 * :chart_with_upwards_trend: building microservices, deploying on Kubernetes :chart_with_upwards_trend:
 
 **Connect with me:** <br/>
