@@ -8,7 +8,7 @@ I'm a professional software engineer & IT-Consultant helping customers build the
 * :chart_with_upwards_trend: building microservices, deploying on Kubernetes :chart_with_upwards_trend:
 
 **Connect with me:** <br/>
-[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/rosario-p-91512a199/)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/rosario-francesco-p-91512a199/)
 <br>
 <br>
 
