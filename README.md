@@ -27,7 +27,7 @@ I'm a professional software engineer & IT-Consultant helping customers build the
 <br/>
 <br/>
 
-## Software used for professional Work:
+## Software used for professional work:
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
 <img align="left" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
